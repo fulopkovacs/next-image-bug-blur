@@ -19,3 +19,7 @@ pnpm dev
 2. Load `http://localhost:3000` without throttling
 3. Enable throttling
 4. Start clicking the `Change image` button
+
+You should see this:
+
+<video src="/next-js-image.mp4">
