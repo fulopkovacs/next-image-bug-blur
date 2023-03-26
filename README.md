@@ -22,4 +22,5 @@ pnpm dev
 
 You should see this:
 
-<video src="/next-js-image.mp4">
+https://user-images.githubusercontent.com/43729152/227770475-44dadf6e-7b7f-4efb-9fc0-187e4e620799.mp4
+
